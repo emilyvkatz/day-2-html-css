@@ -1,0 +1,73 @@
+body {
+  background-color:#befdf5;
+}
+
+#header-style{
+  background-color: light#ffd3f4;
+}
+
+#nav-style{
+background-color:#ffd3f4;
+padding:10px;
+}
+
+#nav-style ul {
+  background-color:#EDE0FF;
+  padding:10px;
+}
+
+#nav-style ul li:first-child{
+  background-color:#bef2fd;
+  padding:10px;
+}
+
+.cool-div{
+  background-color:#befdf5;
+  padding:10px;
+}
+
+.cool-div p{
+  background-color:#eeee;
+  padding:10px;
+}
+
+#hi-h1{
+  background-color:#ffd3f4;
+}
+
+.tcu_library img{
+  width:300px;
+}
+.tcu_library {
+  overflow: hidden;
+}
+.tcu_library p{
+  float:right;
+}
+
+.commons{
+  background-image: url("../images/tcu_commons.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:300px;
+  width:300px;
+  border: 5px solid black;
+  border-radius: 50%;
+}
+
+.form-style{
+  border: 2px solid #eeee;
+}
+.span-style {
+  font-weight:bold;
+  background-color:#befdf5;
+  text-decoration: underline;
+}
+.pos-1 {
+  position: relative;
+  top: 50px;
+}
+.pos-2{
+  position:absolute;
+  top:300px;
+}
